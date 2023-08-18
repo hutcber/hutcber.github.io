@@ -23,5 +23,8 @@ Recent planning methods based on LLMs typically employ the In-Context Learning p
 ## Results
 
 ## Methodology
+<div align='center'>
+  <img src=".png">
+</div>
 
 ## BibTeX
