@@ -4,12 +4,11 @@
   <font size=4 color=black>ICRA 2024</font>
 </div>
 
-<div align='center'>
-  <font size=4> [author1](https://www.yuque.com/zhangjiatao-grdyv/rn49ht/lq7xzy4xmxgrpgz9), [author2](https://www.yuque.com/zhangjiatao-grdyv/rn49ht/vsarazgdts43o7y4) <br/> </font>
-   [paper](https://dl.acm.org/doi/10.1145/3289600.3291014), [code](https://github.com/wencolani/CrossE)
-</div>
-
 [author1](https://www.yuque.com/zhangjiatao-grdyv/rn49ht/lq7xzy4xmxgrpgz9), [author2](https://www.yuque.com/zhangjiatao-grdyv/rn49ht/vsarazgdts43o7y4)
+
+<div align=center >
+<a href=[https://blog.csdn.net/weixin_42378324/article/details/108392847](https://www.yuque.com/zhangjiatao-grdyv/rn49ht/lq7xzy4xmxgrpgz9)>author1\</a>
+</div>
 
 
 ## Abstract
