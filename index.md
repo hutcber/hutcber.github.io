@@ -5,7 +5,7 @@
 </div>
 
 <div align='center'; style="font:12px; bolder '微软雅黑';">
-ICRA 2024
+  ICRA 2024
 </div>
 
 <p align='center'; style="font-size:24px; "> ICRA 2024 </p>
