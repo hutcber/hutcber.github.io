@@ -23,6 +23,11 @@ Recent planning methods based on LLMs typically employ the In-Context Learning p
 ## Results
 
 ## Methodology
+The framework uses the task description as input and outputs the task plan. Our framework consists of three stages: 
+1. Decompose a complex, long-horizon task into several simpler sub-tasks and formulate an abstract plan.
+2. Represent the task goal, abstract plan, and instruction as long-term memory, while designating the selected sub-goal in the plan, demonstration, and sub-task specifics as short-term memory.
+3. Input the combined long and short-term memories and the environment observation into the LLM to retrieve the sub-task plan. Update memory simultaneously and repeat the above steps until the task is complete.
+
 <div align='center'>
   <img src="https://picsum.photos/200/300">
 </div>
