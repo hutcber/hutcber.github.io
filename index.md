@@ -1,7 +1,7 @@
 <h1 align="center"> Faithful LLMs for Long-Horizon Task Planning </h1>
 
 <div align='center'>
-  <style="font-size:12px"> ICRA 2024 </font>
+  <style="font-size:12px; "> ICRA 2024 </font>
 </div>
 
 <div align='center'; style="font:12px; bolder '微软雅黑';">
