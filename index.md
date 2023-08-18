@@ -1,4 +1,3 @@
-# Faithful LLMs for Long-Horizon Task Planning
 <h1 align="center"> Faithful LLMs for Long-Horizon Task Planning </h1>
 
 <div align='center'>
