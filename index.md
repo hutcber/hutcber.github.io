@@ -4,8 +4,8 @@
   <font-size: 12px> ICRA 2024 </font>
 </div>
 
-<div align='center'; style="font:12px; bolder '微软雅黑'; text-align:center;">
-我们是红色的雅黑字体，都是居中对齐的哦
+<div align='center'; style="font:12px; bolder '微软雅黑';">
+我们是红色的雅黑字体，都是居中对齐的
 </div>
 
 ## Abstract
