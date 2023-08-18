@@ -17,6 +17,10 @@ Recent planning methods based on LLMs typically employ the In-Context Learning p
 <source id="mp4" src="https://progprompt.github.io/static/media/videos/real-robot.mp4" type="video/mp4">
 </video>
 
+<div align='center'>
+  <img src="https://progprompt.github.io/static/media/videos/real-robot.mp4">
+</div>
+
 
 ## Results
 
