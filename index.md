@@ -1,7 +1,11 @@
 <h1 align="center"> Faithful LLMs for Long-Horizon Task Planning </h1>
 
 <div align='center'>
-  <font size=3 color=black>ICRA 2024</font>
+  <font size=4 color=black>ICRA 2024</font>
+</div>
+
+<div align='center'>
+  <font size=4 color=black> [author1[(https://www.yuque.com/zhangjiatao-grdyv/rn49ht/lq7xzy4xmxgrpgz9), author2 </font>
 </div>
 
 
