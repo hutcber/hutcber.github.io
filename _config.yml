@@ -2,4 +2,4 @@ title: Faithful LLMs for Long-Horizon Task Planning
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-description: ICRA 2024<br/>author1, author2
+description: ICRA 2024<br/>[author1](https://www.yuque.com/zhangjiatao-grdyv/rn49ht/lq7xzy4xmxgrpgz9), [author2](https://www.yuque.com/zhangjiatao-grdyv/rn49ht/vsarazgdts43o7y4)
