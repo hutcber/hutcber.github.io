@@ -33,4 +33,8 @@ The framework uses the task description as input and outputs the task plan. Our 
   <img src="https://cdn.nlark.com/yuque/0/2023/png/33623158/1692686955622-c5f99fc8-b2b0-4b67-91d9-08bec56923a9.png?x-oss-process=image%2Fresize%2Cw_1031%2Climit_0">
 </div>
 
+<div align='center'>
+  <img src="https://cdn.nlark.com/yuque/0/2023/png/33623158/1692687072038-3e9b108e-394d-4a70-9c97-55d26490f296.png?x-oss-process=image%2Fresize%2Cw_1031%2Climit_0">
+</div>
+
 ## BibTeX
