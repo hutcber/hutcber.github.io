@@ -39,7 +39,7 @@ The framework uses the task description as input and outputs the task plan. Our 
 </div>
 
 <div align='center'>
-  <img src="https://github.com/Mongoosesyf/DiEP.github.io/blob/main/RNN.PNG">
+  <img src="https://github.com/Mongoosesyf/DiEP.github.io/blob/main/method_description.PNG">
 </div>
 
 ## BibTeX
