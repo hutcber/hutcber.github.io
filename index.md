@@ -25,7 +25,7 @@ Recent planning methods based on LLMs typically employ the In-Context Learning p
 Example of our frameworks for long-horizon task planning:
 
 <div align='center'>
-  <img src="https://ipictures.github.io/C:\Users\s1893\Desktop\浙大\暑假准备\faithfulLLM\放到界面中的资源/result.PNG">
+  <img src="https://ipictures.github.io/C:/Users/s1893/Desktop/浙大/暑假准备/faithfulLLM/放到界面中的资源/result.PNG">
 </div>
 
 ## Methodology
@@ -35,11 +35,11 @@ The framework uses the task description as input and outputs the task plan. Our 
 3. Input the combined long and short-term memories and the environment observation into the LLM to retrieve the sub-task plan. Update memory simultaneously and repeat the above steps until the task is complete.
 
 <div align='center'>
-  <img src="https://cdn.nlark.com/yuque/0/2023/png/33623158/1692686955622-c5f99fc8-b2b0-4b67-91d9-08bec56923a9.png?x-oss-process=image%2Fresize%2Cw_1031%2Climit_0">
+  <img src="https://ipictures.github.io/C:/Users/s1893/Desktop/浙大/暑假准备/faithfulLLM/放到界面中的资源/RNN.PNG">
 </div>
 
 <div align='center'>
-  <img src="https://cdn.nlark.com/yuque/0/2023/png/33623158/1692687072038-3e9b108e-394d-4a70-9c97-55d26490f296.png?x-oss-process=image%2Fresize%2Cw_1031%2Climit_0">
+  <img src="https://ipictures.github.io/C:/Users/s1893/Desktop/浙大/暑假准备/faithfulLLM/放到界面中的资源/method_description.PNG">
 </div>
 
 ## BibTeX
