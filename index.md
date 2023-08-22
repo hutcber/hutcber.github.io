@@ -38,6 +38,8 @@ The framework uses the task description as input and outputs the task plan. Our 
   <img src="https://github.com/Mongoosesyf/DiEP.github.io/blob/main/RNN.PNG?raw=true">
 </div>
 
+<br/>
+
 <div align='center'>
   <img src="https://raw.githubusercontent.com/Mongoosesyf/DiEP.github.io/main/method_description.PNG">
 </div>
