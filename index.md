@@ -25,7 +25,7 @@ Recent planning methods based on LLMs typically employ the In-Context Learning p
 Example of our frameworks for long-horizon task planning:
 
 <div align='center'>
-  <img src="https://github.com/Mongoosesyf/DiEP.github.io/blob/main/result.PNG">
+  <img src="https://github.com/Mongoosesyf/DiEP.github.io/blob/main/result.PNG?raw=true">
 </div>
 
 ## Methodology
@@ -35,11 +35,11 @@ The framework uses the task description as input and outputs the task plan. Our 
 3. Input the combined long and short-term memories and the environment observation into the LLM to retrieve the sub-task plan. Update memory simultaneously and repeat the above steps until the task is complete.
 
 <div align='center'>
-  <img src="https://github.com/Mongoosesyf/DiEP.github.io/blob/main/RNN.PNG">
+  <img src="https://github.com/Mongoosesyf/DiEP.github.io/blob/main/RNN.PNG?raw=true">
 </div>
 
 <div align='center'>
-  <img src="https://github.com/Mongoosesyf/DiEP.github.io/blob/main/method_description.PNG">
+  <img src="https://raw.githubusercontent.com/Mongoosesyf/DiEP.github.io/main/method_description.PNG">
 </div>
 
 ## BibTeX
