@@ -1,4 +1,4 @@
-title: CARF: Causal Inference Augmented Reflection for Long-Term Planning via LLMs
+title: Causal Inference Augmented Reflection for Long-Term Planning via LLMs
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
